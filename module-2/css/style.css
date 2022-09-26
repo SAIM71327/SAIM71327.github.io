@@ -44,6 +44,10 @@ p {
   height: 35px;
   width: 120px;
   padding: 10px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
 #p3 {
  background-color: #E5D198;
   position: absolute;
